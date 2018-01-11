@@ -1,0 +1,8 @@
+#if the dev deploy is updated, this script will refresh the production script
+
+cp -rf $(pwd)/Deploy_to_dev.sh $(pwd)/Deploy_to_prod.sh
+
+sed -i -e 's/dev_wordpressSQL_dbname/prod_wordpressSQL_dbname/g' $(pwd)/Deploy_to_prod.sh
+sed -i -e 's/dev_wordpress_remote_project_directory/prod_wordpress_remote_project_directory/g' $(pwd)/Deploy_to_prod.sh
+
+rm -rf *-e

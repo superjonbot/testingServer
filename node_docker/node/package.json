@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "private": false,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "apiai": "4.0.3",
+    "body-parser": "1.17.2",
+    "client-sessions": "0.8.0",
+    "cookie-parser": "~1.4.3",
+    "cors": "2.8.4",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "gulp": "3.9.1",
+    "morgan": "~1.8.1",
+    "nodemon": "1.11.0",
+    "pug": "~2.0.0-beta11",
+    "rdr": "0.2.2",
+    "serve-favicon": "~2.4.2",
+    "socket.io": "^2.0.4",
+    "underscore": "1.8.3"
+  }
+}
