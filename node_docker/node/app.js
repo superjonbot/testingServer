@@ -39,7 +39,7 @@ app.post('/', function (req, res) {
 
 app.use(express.static('static')); //to static files
 
-app.listen(3000, function () {
+app.listen(3001, function () {
     console.log('Node:3000, wordpress/lamp:8080, combined on port 8000')
 })
 

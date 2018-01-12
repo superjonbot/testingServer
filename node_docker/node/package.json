@@ -20,6 +20,10 @@
     "rdr": "0.2.2",
     "serve-favicon": "~2.4.2",
     "socket.io": "^2.0.4",
-    "underscore": "1.8.3"
+    "underscore": "1.8.3",
+    "ws": "^4.0.0"
+  },
+  "devDependencies": {
+    "websocket": "^1.0.25"
   }
 }

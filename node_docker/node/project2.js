@@ -1,25 +1,64 @@
 var express = require('express')
 var router = express.Router();
 
+var WebSocketServer = require('websocket').server;
+var http = require('http');
 
-/*var http = require('http');//.Server(app);
-var io = require('socket.io')(http);*/
-
-/*app.get('/project2b', function(req, res){
-    res.sendFile(__dirname + '/static/project2.html');
-});*/
-/*
-
-io.on('connection', function(socket){
-    console.log('a user connected');
+var server = http.createServer(function(request, response) {
+    // process HTTP request. Since we're writing just WebSockets
+    // server we don't have to implement anything.
 });
-*/
 
-/*
-http.listen(3000, function(){
-    console.log('listening on *:3000');
+
+var a=0;
+server.listen(3000, function() { });
+console.log('okay')
+// create the server
+wsServer = new WebSocketServer({
+    httpServer: server
 });
-*/
+
+// WebSocket server
+var connection;
+
+wsServer.on('connect', function(resp) {
+
+
+    console.log('connect '+resp);
+    setInterval(function(){
+        a=a+1
+        console.log(a);
+        connection.send('got it bro '+a)
+    },10000)
+
+});
+
+wsServer.on('request', function(request) {
+    connection = request.accept(null, request.origin);
+
+    // This is the most important callback for us, we'll handle
+    // all messages from users here.
+
+    console.log('from '+request.origin);
+
+    connection.on('message', function(message) {
+        console.log('received from '+request.origin+':'+JSON.stringify(message))
+        connection.send('got it bro')
+    });
+
+    connection.on('close', function(connection) {
+        console.log('test2'+connection)
+    });
+});
+
+wsServer.on('close', function(webSocketConnection, closeReason, description) {
+
+        console.log(webSocketConnection+' '+ closeReason+' '+ description)
+
+});
+
+
+
 
 
 
