@@ -100,3 +100,124 @@ ns_ts:1515621827356 ns_st_ev:hb ns_st_ct:vc
 ns_ts:1515621887369 ns_st_ev:hb ns_st_ct:vc
 ns_ts:1515621947382 ns_st_ev:hb ns_st_ct:vc
 ns_ts:1515622007395 ns_st_ev:hb ns_st_ct:vc
+ns_ts:1515621530788 ns_st_ev:hb ns_st_ct:vc
+ns_ts:1515621530788 ns_st_ev:hb ns_st_ct:vc
+ns_ts:1515621530788 ns_st_ev:hb ns_st_ct:vc
+ns_ts:1515621530788 ns_st_ev:hb ns_st_ct:vc
+ns_ts:1515621530788 ns_st_ev:hb ns_st_ct:vc
+ns_ts:1515621530788 ns_st_ev:hb ns_st_ct:vc
+ns_ts:1516394477323 ns_st_ev:play ns_st_ct:vc12
+ns_ts:1516394487325 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516394497349 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516394507365 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516394517377 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516394527395 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516394537410 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:undefined ns_st_ev:undefined ns_st_ct:undefined
+ns_ts:1516394576117 ns_st_ev:pause ns_st_ct:vc12
+ns_ts:undefined ns_st_ev:undefined ns_st_ct:undefined
+ns_ts:undefined ns_st_ev:undefined ns_st_ct:undefined
+ns_ts:undefined ns_st_ev:undefined ns_st_ct:undefined
+ns_ts:undefined ns_st_ev:undefined ns_st_ct:undefined
+ns_ts:undefined ns_st_ev:undefined ns_st_ct:undefined
+ns_ts:undefined ns_st_ev:undefined ns_st_ct:undefined
+ns_ts:undefined ns_st_ev:undefined ns_st_ct:undefined
+event:undefined ns_st_ev:undefined ns_st_ct:undefined
+event:{"type":"content","calc_position":396,"metadata":{"content":{"crossId1":"177080","progen":"GV","type":"content","program":"60DaysIn","adloadtype":"2","length":"2590","hasAds":"1","isfullepisode":"y","airdate":"20160310 11:01:00","assetid":"641589315539","title":"First Timers"},"static":{},"ad":{"type":"preroll","assetid":"22231568"}},"position":0,"event":"playhead","devInfo":{"uoo":"false","apn":"A%26E","apv":"7.2.2","devId":"ddfb0f39b4699b41c0b82b4bd335e8fcf0df"},"utc":1516394475379} ns_st_ev:undefined ns_st_ct:undefined
+event:undefined ns_st_ev:undefined ns_st_ct:undefined
+event:undefined ns_st_ev:undefined ns_st_ct:undefined
+event:{"type":"content","calc_position":396,"metadata":{"content":{"crossId1":"177080","progen":"GV","type":"content","program":"60DaysIn","adloadtype":"2","length":"2590","hasAds":"1","isfullepisode":"y","airdate":"20160310 11:01:00","assetid":"641589315539","title":"First Timers"},"static":{},"ad":{"type":"preroll","assetid":"22231568"}},"position":0,"event":"playhead","devInfo":{"uoo":"false","apn":"A%26E","apv":"7.2.2","devId":"ddfb0f39b4699b41c0b82b4bd335e8fcf0df"},"utc":1516394475379} ns_st_ev:undefined ns_st_ct:undefined
+event:content
+type:content content.type:content event:undefined pos:0
+type:content content.type:content event:undefined pos:0
+type:content content.type:content event:undefined pos:0
+type:content content.type:content event:undefined pos:0
+type:content content.type:content event:undefined pos:0
+type:content content.type:content event:undefined pos:0
+type:content content.type:content event:undefined pos:0
+type:content content.type:content event:undefined pos:0 utc:1516394575241
+type:content content.type:content event:playhead pos:0 utc:1516394575241
+type:content content.type:content ad.type:preroll event:playhead pos:0 utc:1516394575241
+ns_ts:1516396110705 ns_st_ev:play ns_st_ct:vc12
+ns_ts:1516396131907 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396149998 ns_st_ev:pause ns_st_ct:vc12
+ns_ts:1516396177836 ns_st_ev:play ns_st_ct:va11
+ns_ts:1516396187840 ns_st_ev:hb ns_st_ct:va11
+ns_ts:1516396191382 ns_st_ev:pause ns_st_ct:va11
+ns_ts:1516396194509 ns_st_ev:end ns_st_ct:va11
+ns_ts:1516396194562 ns_st_ev:play ns_st_ct:vc12
+ns_ts:1516396204564 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396214580 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396219200 ns_st_ev:pause ns_st_ct:vc12
+ns_ts:1516396287636 ns_st_ev:undefined ns_st_ct:undefined
+ns_ts:1516396309678 ns_st_ev:play ns_st_ct:va11
+ns_ts:1516396319737 ns_st_ev:hb ns_st_ct:va11
+ns_ts:1516396329754 ns_st_ev:hb ns_st_ct:va11
+ns_ts:1516396338216 ns_st_ev:pause ns_st_ct:va11
+ns_ts:1516396341148 ns_st_ev:end ns_st_ct:va11
+ns_ts:1516396341167 ns_st_ev:play ns_st_ct:vc12
+ns_ts:1516396351171 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396359829 ns_st_ev:pause ns_st_ct:vc12
+ns_ts:1516396361343 ns_st_ev:play ns_st_ct:vc12
+ns_ts:1516396362742 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396372764 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396382777 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396392792 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396402812 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396450427 ns_st_ev:pause ns_st_ct:vc12
+ns_ts:1516396468164 ns_st_ev:play ns_st_ct:va11
+ns_ts:1516396478168 ns_st_ev:hb ns_st_ct:va11
+ns_ts:1516396481707 ns_st_ev:pause ns_st_ct:va11
+ns_ts:1516396484867 ns_st_ev:end ns_st_ct:va11
+ns_ts:1516396484936 ns_st_ev:play ns_st_ct:vc12
+ns_ts:1516396494972 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396496794 ns_st_ev:pause ns_st_ct:vc12
+ns_ts:1516396627475 ns_st_ev:play ns_st_ct:vc12
+ns_ts:1516396637477 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396647557 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396657580 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396667592 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396669563 ns_st_ev:pause ns_st_ct:vc12
+ns_ts:1516396705217 ns_st_ev:play ns_st_ct:vc12
+type:content content.type:content ad.type:preroll event:playhead pos:0 utc:1516396710992
+ns_ts:1516396713130 ns_st_ev:hb ns_st_ct:vc12
+ns_ts:1516396720590 ns_st_ev:pause ns_st_ct:vc12
+type:content content.type:content ad.type:preroll event:playhead pos:0 utc:1516396783719
+type:content content.type:content ad.type:preroll event:playhead pos:0 utc:1516396801612
+ns_ts:1516396803666 ns_st_ev:play ns_st_ct:vc12
+ns_ts:1516396810999 ns_st_ev:pause ns_st_ct:vc12
+type:content content.type:content ad.type:preroll event:playhead pos:0 utc:1516396813494
+type:ad content.type:content ad.type:preroll event:playhead pos:0 utc:1516396963208
+type:ad content.type:content ad.type:preroll event:playhead pos:10 utc:1516396973186
+type:ad content.type:content ad.type:preroll event:playhead pos:20 utc:1516396983207
+type:ad content.type:content ad.type:preroll event:playhead pos:29 utc:1516396991183
+type:content content.type:content ad.type:preroll event:playhead pos:0 utc:1516396993277
+type:content content.type:content ad.type:preroll event:playhead pos:10 utc:1516397003280
+type:content content.type:content ad.type:preroll event:playhead pos:20 utc:1516397013282
+type:content content.type:content ad.type:preroll event:playhead pos:30 utc:1516397023319
+type:content content.type:content ad.type:preroll event:playhead pos:40 utc:1516397033280
+type:content content.type:content ad.type:preroll event:playhead pos:50 utc:1516397043279
+type:content content.type:content ad.type:preroll event:playhead pos:60 utc:1516397053279
+type:content content.type:content ad.type:preroll event:playhead pos:70 utc:1516397063311
+type:content content.type:content ad.type:preroll event:playhead pos:80 utc:1516397073280
+type:content content.type:content ad.type:preroll event:playhead pos:90 utc:1516397083277
+type:content content.type:content ad.type:preroll event:playhead pos:100 utc:1516397093278
+type:content content.type:content ad.type:preroll event:playhead pos:110 utc:1516397103280
+type:content content.type:content ad.type:preroll event:playhead pos:120 utc:1516397113281
+type:content content.type:content ad.type:preroll event:playhead pos:130 utc:1516397123291
+type:content content.type:content ad.type:preroll event:playhead pos:140 utc:1516397133282
+type:content type:content event:playhead pos:150 utc:1516397143278
+type:content type:content event:playhead pos:157 utc:1516397150417
+type:content type:content event:playhead pos:0 utc:1516397182298
+type:content type:content event:playhead pos:0 utc:1516397196630
+type:content type:content event:playhead pos:0 utc:1516397207989
+type:content type:content event:playhead pos:0 utc:1516397217987
+type:content type:content event:playhead pos:0 utc:1516397227995
+type:content type:content event:playhead pos:0 utc:1516397237993
+type:content type:content event:playhead pos:0 utc:1516397247992
+type:content type:content event:playhead pos:0 utc:1516397257991
+type:content type:content event:playhead pos:0 utc:1516397267991
+type:content type:content event:playhead pos:0 utc:1516397277990
+type:content type:content event:playhead pos:0 utc:1516397287996
+type:content type:content event:playhead pos:0 utc:1516397297990
+type:content type:content event:playhead pos:0 utc:1516397307991

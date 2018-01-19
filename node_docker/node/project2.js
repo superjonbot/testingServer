@@ -11,7 +11,7 @@ var server = http.createServer(function(request, response) {
 
 
 var a=0;
-server.listen(3000, function() { });
+server.listen(3001, function() { });
 console.log('okay')
 // create the server
 wsServer = new WebSocketServer({
