@@ -221,3 +221,326 @@ type:content type:content event:playhead pos:0 utc:1516397277990
 type:content type:content event:playhead pos:0 utc:1516397287996
 type:content type:content event:playhead pos:0 utc:1516397297990
 type:content type:content event:playhead pos:0 utc:1516397307991
+type:content type:content event:playhead pos:0 utc:1516397317990
+type:content type:content event:playhead pos:0 utc:1516397327991
+type:content type:content event:playhead pos:0 utc:1516397338010
+type:content type:content event:playhead pos:0 utc:1516397347990
+type:content type:content event:playhead pos:0 utc:1516397357995
+type:content type:content event:playhead pos:0 utc:1516397367991
+type:content type:content event:playhead pos:0 utc:1516397377996
+type:content type:content event:playhead pos:0 utc:1516397388002
+type:content type:content event:playhead pos:0 utc:1516397397991
+type:content type:content event:playhead pos:0 utc:1516397407991
+type:content type:content event:playhead pos:0 utc:1516397417992
+type:content type:content event:playhead pos:0 utc:1516397427991
+type:content type:content event:playhead pos:0 utc:1516397437990
+type:content type:content event:playhead pos:0 utc:1516397447995
+type:content type:content event:playhead pos:0 utc:1516397457991
+type:content type:content event:playhead pos:0 utc:1516397467992
+type:content type:content event:playhead pos:0 utc:1516397477993
+type:content type:content event:playhead pos:0 utc:1516397487992
+type:content type:content event:playhead pos:0 utc:1516397497995
+type:content type:content event:playhead pos:0 utc:1516397507990
+type:content type:content event:playhead pos:0 utc:1516397517993
+type:content type:content event:playhead pos:0 utc:1516397528016
+type:content type:content event:playhead pos:0 utc:1516397537989
+type:content type:content event:playhead pos:0 utc:1516397547992
+type:content type:content event:playhead pos:0 utc:1516397557995
+type:content type:content event:playhead pos:0 utc:1516397567990
+type:content type:content event:playhead pos:0 utc:1516397578011
+type:content type:content event:playhead pos:0 utc:1516397582533
+type:content type:content event:delete pos:0 utc:1516397588546
+type:content type:undefined event:delete pos:0 utc:1516397603351
+type:ad type:preroll event:playhead pos:0 utc:1516397634183
+type:ad type:preroll event:playhead pos:10 utc:1516397644181
+type:ad type:preroll event:playhead pos:20 utc:1516397654178
+type:ad type:preroll event:playhead pos:29 utc:1516397662161
+type:content type:content event:playhead pos:0 utc:1516397664248
+type:content type:content event:playhead pos:10 utc:1516397674251
+type:content type:content event:playhead pos:13 utc:1516397676825
+type:content type:content event:playhead pos:0 utc:1516397710342
+type:content type:content event:playhead pos:0 utc:1516397720368
+type:content type:content event:playhead pos:0 utc:1516397730342
+type:content type:content event:playhead pos:0 utc:1516397740338
+type:content type:content event:playhead pos:0 utc:1516397750336
+type:content type:content event:playhead pos:0 utc:1516397760338
+type:content type:content event:playhead pos:0 utc:1516397770341
+type:content type:content event:playhead pos:0 utc:1516397780341
+type:content type:content event:playhead pos:0 utc:1516397790338
+type:content type:content event:playhead pos:0 utc:1516397800340
+type:content type:content event:playhead pos:0 utc:1516397810339
+type:content type:content event:playhead pos:0 utc:1516397820343
+type:content type:content event:playhead pos:0 utc:1516397830361
+type:content type:content event:playhead pos:0 utc:1516397840338
+type:content type:content event:playhead pos:0 utc:1516397850343
+type:content type:content event:playhead pos:0 utc:1516397860338
+type:content type:content event:playhead pos:0 utc:1516397870338
+type:content type:content event:playhead pos:0 utc:1516397880338
+type:content type:content event:playhead pos:0 utc:1516397890346
+type:content type:content event:playhead pos:0 utc:1516397900343
+type:content type:content event:playhead pos:0 utc:1516397910340
+type:content type:content event:playhead pos:0 utc:1516397920339
+type:content type:content event:playhead pos:0 utc:1516397930338
+type:content type:content event:playhead pos:0 utc:1516397940362
+type:content type:content event:playhead pos:0 utc:1516397950338
+type:content type:content event:playhead pos:0 utc:1516397960338
+type:content type:content event:playhead pos:0 utc:1516397970338
+type:content type:content event:playhead pos:0 utc:1516397980338
+type:content type:content event:playhead pos:0 utc:1516397990340
+type:content type:content event:playhead pos:0 utc:1516398000344
+type:content type:content event:playhead pos:0 utc:1516398010339
+type:content type:content event:playhead pos:0 utc:1516398020338
+type:content type:content event:playhead pos:0 utc:1516398030343
+type:content type:content event:playhead pos:0 utc:1516398040339
+type:content type:content event:playhead pos:0 utc:1516398050340
+type:content type:content event:playhead pos:0 utc:1516398060338
+type:content type:content event:playhead pos:0 utc:1516398070341
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398080338
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398090339
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398100339
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398110337
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398120339
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398130348
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398140338
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398150340
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398160339
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398170338
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398180339
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398190338
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398200339
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398210352
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398220338
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398230337
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398240378
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398250339
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398260353
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398270337
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398280338
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398290339
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398300340
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398310348
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398320346
+type:content type:content event:playhead calc_pos:43 pos:0 utc:1516398328338
+type:content type:content event:playhead calc_pos:43 pos:619 utc:1516398359549
+type:content type:content event:playhead calc_pos:43 pos:629 utc:1516398369562
+type:content type:content event:playhead calc_pos:43 pos:639 utc:1516398379547
+type:content type:content event:playhead calc_pos:43 pos:649 utc:1516398389548
+type:content type:content event:playhead calc_pos:43 pos:659 utc:1516398399549
+type:content type:content event:playhead calc_pos:43 pos:669 utc:1516398409550
+type:content type:content event:playhead calc_pos:43 pos:679 utc:1516398419547
+type:content type:content event:playhead calc_pos:43 pos:689 utc:1516398429558
+type:content type:content event:playhead calc_pos:43 pos:699 utc:1516398439549
+type:content type:content event:playhead calc_pos:43 pos:709 utc:1516398449547
+type:content type:content event:playhead calc_pos:43 pos:719 utc:1516398459550
+type:content type:content event:playhead calc_pos:43 pos:729 utc:1516398469560
+type:content type:content event:playhead calc_pos:43 pos:739 utc:1516398479569
+type:content type:content event:playhead calc_pos:43 pos:749 utc:1516398489549
+type:content type:content event:playhead calc_pos:43 pos:759 utc:1516398499550
+type:content type:content event:playhead calc_pos:43 pos:769 utc:1516398509552
+type:content type:content event:playhead calc_pos:808 pos:778 utc:1516398517871
+type:content type:content event:delete calc_pos:808 pos:0 utc:1516398524441
+type:ad type:preroll event:playhead calc_pos:undefined pos:0 utc:1516398556641
+type:ad type:preroll event:playhead calc_pos:undefined pos:10 utc:1516398566666
+type:ad type:preroll event:playhead calc_pos:undefined pos:20 utc:1516398576616
+type:ad type:preroll event:playhead calc_pos:undefined pos:29 utc:1516398584594
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516398586694
+type:content type:content event:playhead calc_pos:undefined pos:10 utc:1516398596721
+type:content type:content event:playhead calc_pos:undefined pos:20 utc:1516398606698
+type:content type:content event:playhead calc_pos:undefined pos:30 utc:1516398616697
+type:content type:content event:playhead calc_pos:undefined pos:40 utc:1516398626700
+type:content type:content event:playhead calc_pos:undefined pos:50 utc:1516398636698
+type:content type:content event:playhead calc_pos:undefined pos:60 utc:1516398646697
+type:content type:content event:playhead calc_pos:undefined pos:70 utc:1516398656702
+type:content type:content event:playhead calc_pos:undefined pos:80 utc:1516398666750
+type:content type:content event:playhead calc_pos:undefined pos:90 utc:1516398676697
+type:content type:content event:playhead calc_pos:undefined pos:100 utc:1516398686696
+type:content type:content event:playhead calc_pos:undefined pos:110 utc:1516398696697
+type:content type:content event:playhead calc_pos:undefined pos:120 utc:1516398706694
+type:content type:content event:playhead calc_pos:undefined pos:130 utc:1516398716693
+type:content type:content event:playhead calc_pos:undefined pos:140 utc:1516398726708
+type:content type:content event:playhead calc_pos:undefined pos:150 utc:1516398736694
+type:content type:content event:playhead calc_pos:undefined pos:160 utc:1516398746695
+type:content type:content event:playhead calc_pos:undefined pos:170 utc:1516398756697
+type:content type:content event:playhead calc_pos:undefined pos:180 utc:1516398766693
+type:content type:content event:playhead calc_pos:220 pos:190 utc:1516398776320
+type:content type:content event:delete calc_pos:220 pos:0 utc:1516398790696
+type:content type:content event:playhead calc_pos:undefined pos:31 utc:1516398857216
+type:content type:content event:playhead calc_pos:undefined pos:41 utc:1516398867257
+type:content type:content event:playhead calc_pos:undefined pos:51 utc:1516398877210
+type:content type:content event:playhead calc_pos:undefined pos:61 utc:1516398887211
+type:content type:content event:playhead calc_pos:undefined pos:71 utc:1516398897209
+type:content type:content event:playhead calc_pos:undefined pos:81 utc:1516398907210
+type:content type:content event:playhead calc_pos:undefined pos:91 utc:1516398917210
+type:content type:content event:playhead calc_pos:undefined pos:101 utc:1516398927210
+type:content type:content event:playhead calc_pos:undefined pos:111 utc:1516398937220
+type:content type:content event:playhead calc_pos:undefined pos:121 utc:1516398947211
+type:content type:content event:playhead calc_pos:undefined pos:131 utc:1516398957209
+type:content type:content event:playhead calc_pos:undefined pos:141 utc:1516398967211
+type:content type:content event:playhead calc_pos:151 pos:120 utc:1516398976957
+type:content type:content event:delete calc_pos:151 pos:0 utc:1516398984793
+type:ad type:preroll event:playhead calc_pos:undefined pos:0 utc:1516399009068
+type:ad type:preroll event:playhead calc_pos:undefined pos:10 utc:1516399019049
+type:ad type:preroll event:playhead calc_pos:undefined pos:20 utc:1516399029050
+type:ad type:preroll event:playhead calc_pos:undefined pos:29 utc:1516399037049
+type:content type:content event:playhead calc_pos:undefined pos:30 utc:1516399039139
+type:content type:content event:playhead calc_pos:undefined pos:40 utc:1516399049157
+type:content type:content event:playhead calc_pos:undefined pos:50 utc:1516399059142
+type:content type:content event:playhead calc_pos:undefined pos:60 utc:1516399069144
+type:content type:content event:playhead calc_pos:undefined pos:70 utc:1516399079143
+type:content type:content event:playhead calc_pos:undefined pos:80 utc:1516399089145
+type:content type:content event:playhead calc_pos:undefined pos:90 utc:1516399099141
+type:content type:content event:playhead calc_pos:undefined pos:100 utc:1516399109182
+type:content type:content event:playhead calc_pos:undefined pos:110 utc:1516399119142
+type:content type:content event:playhead calc_pos:undefined pos:120 utc:1516399129146
+type:content type:content event:playhead calc_pos:undefined pos:130 utc:1516399139139
+type:content type:content event:playhead calc_pos:undefined pos:140 utc:1516399149144
+type:content type:content event:playhead calc_pos:undefined pos:150 utc:1516399159148
+type:content type:content event:playhead calc_pos:undefined pos:160 utc:1516399169154
+type:content type:content event:playhead calc_pos:undefined pos:170 utc:1516399179141
+type:content type:content event:playhead calc_pos:undefined pos:180 utc:1516399189143
+type:content type:content event:playhead calc_pos:undefined pos:190 utc:1516399199140
+type:content type:content event:playhead calc_pos:undefined pos:200 utc:1516399209143
+type:content type:content event:playhead calc_pos:undefined pos:210 utc:1516399219150
+type:content type:content event:playhead calc_pos:undefined pos:220 utc:1516399229149
+type:content type:content event:playhead calc_pos:undefined pos:230 utc:1516399239142
+type:content type:content event:playhead calc_pos:undefined pos:240 utc:1516399249142
+type:content type:content event:playhead calc_pos:244 pos:214 utc:1516399253064
+type:content type:content event:delete calc_pos:244 pos:0 utc:1516399256683
+type:ad type:preroll event:playhead calc_pos:undefined pos:0 utc:1516399302765
+type:ad type:preroll event:playhead calc_pos:undefined pos:10 utc:1516399312753
+type:ad type:preroll event:playhead calc_pos:undefined pos:20 utc:1516399322758
+type:ad type:preroll event:playhead calc_pos:undefined pos:29 utc:1516399330727
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516399332902
+type:content type:content event:playhead calc_pos:undefined pos:10 utc:1516399342864
+type:content type:content event:playhead calc_pos:undefined pos:20 utc:1516399352861
+type:content type:content event:playhead calc_pos:undefined pos:30 utc:1516399362862
+type:content type:content event:playhead calc_pos:63 pos:33 utc:1516399365469
+type:content type:content event:playhead calc_pos:63 pos:0 utc:1516399382605
+type:content type:content event:playhead calc_pos:63 pos:0 utc:1516399392799
+type:content type:content event:playhead calc_pos:45 pos:0 utc:1516399478313
+type:content type:content event:delete calc_pos:45 pos:0 utc:1516399482718
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516399562303
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516399572203
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516399582199
+type:content type:content event:playhead calc_pos:30 pos:0 utc:1516400179849
+type:content type:content event:delete calc_pos:30 pos:0 utc:1516400185544
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516400234412
+type:content type:content event:playhead calc_pos:7 pos:0 utc:1516400240761
+type:content type:content event:playhead calc_pos:7 pos:0 utc:1516400250946
+type:content type:content event:playhead calc_pos:2 pos:0 utc:1516400323973
+type:ad type:preroll event:playhead calc_pos:2 pos:0 utc:1516400333279
+type:ad type:preroll event:playhead calc_pos:2 pos:10 utc:1516400343313
+type:ad type:preroll event:playhead calc_pos:2 pos:20 utc:1516400353271
+type:ad type:preroll event:playhead calc_pos:2 pos:29 utc:1516400361267
+type:content type:content event:playhead calc_pos:2 pos:0 utc:1516400363382
+type:content type:content event:playhead calc_pos:2 pos:10 utc:1516400373377
+type:content type:content event:playhead calc_pos:50 pos:20 utc:1516400383217
+type:content type:content event:playhead calc_pos:50 pos:10 utc:1516400400912
+type:content type:content event:playhead calc_pos:50 pos:20 utc:1516400410892
+type:content type:content event:playhead calc_pos:37 pos:22 utc:1516400545079
+type:content type:content event:playhead calc_pos:0 pos:0 utc:1516400639320
+type:ad type:preroll event:playhead calc_pos:0 pos:0 utc:1516400658790
+type:ad type:preroll event:playhead calc_pos:0 pos:10 utc:1516400668742
+type:content type:content event:playhead calc_pos:12 pos:0 utc:1516400670056
+type:content type:content event:delete calc_pos:12 pos:0 utc:1516400683510
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516400741860
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516400751690
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516400761674
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516400771666
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516400781669
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516400791670
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516400801671
+type:content type:content event:playhead calc_pos:70 pos:0 utc:1516401424291
+type:content type:content event:delete calc_pos:70 pos:0 utc:1516401427957
+type:ad type:preroll event:playhead calc_pos:undefined pos:0 utc:1516401458243
+type:ad type:preroll event:playhead calc_pos:undefined pos:10 utc:1516401468240
+type:ad type:preroll event:playhead calc_pos:undefined pos:14 utc:1516401471255
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516401473306
+type:content type:content event:playhead calc_pos:undefined pos:10 utc:1516401483300
+type:content type:content event:playhead calc_pos:31 pos:16 utc:1516401488570
+type:ad type:preroll event:playhead calc_pos:31 pos:0 utc:1516401511441
+type:ad type:preroll event:playhead calc_pos:31 pos:10 utc:1516401521432
+type:ad type:preroll event:playhead calc_pos:31 pos:14 utc:1516401524463
+type:content type:content event:playhead calc_pos:31 pos:0 utc:1516401526540
+type:content type:content event:playhead calc_pos:31 pos:10 utc:1516401536528
+type:content type:content event:playhead calc_pos:31 pos:20 utc:1516401546529
+type:content type:content event:playhead calc_pos:31 pos:30 utc:1516401556534
+type:content type:content event:playhead calc_pos:48 pos:33 utc:1516401559193
+type:content type:content event:playhead calc_pos:48 pos:0 utc:1516401583650
+type:content type:content event:playhead calc_pos:48 pos:0 utc:1516401593645
+type:content type:content event:playhead calc_pos:13 pos:0 utc:1516401596063
+type:ad type:preroll event:playhead calc_pos:13 pos:0 utc:1516402665379
+type:content type:content event:playhead calc_pos:2 pos:0 utc:1516402693369
+type:content type:content event:delete calc_pos:2 pos:0 utc:1516402701366
+type:ad type:preroll event:playhead calc_pos:undefined pos:0 utc:1516402756753
+type:ad type:preroll event:playhead calc_pos:undefined pos:10 utc:1516402766766
+type:ad type:preroll event:playhead calc_pos:undefined pos:20 utc:1516402776770
+type:content type:content event:playhead calc_pos:25 pos:0 utc:1516402991033
+type:content type:content event:delete calc_pos:25 pos:0 utc:1516402997706
+type:content type:content event:delete calc_pos:undefined pos:0 utc:1516403076257
+type:content type:undefined event:delete calc_pos:undefined pos:0 utc:1516403079812
+type:content type:content event:playhead calc_pos:undefined pos:0 utc:1516403110989
+type:content type:content event:playhead calc_pos:3 pos:0 utc:1516406720825
+type:content type:content event:delete calc_pos:3 pos:0 utc:1516406737255
+type:content type:content event:delete calc_pos:undefined pos:0 utc:1516406816797
+type:ad type:preroll event:playhead calc_pos:undefined pos:0 utc:1516407074015
+type:ad type:preroll event:playhead calc_pos:undefined pos:10 utc:1516407084035
+type:ad type:preroll event:playhead calc_pos:undefined pos:20 utc:1516407094003
+type:ad type:preroll event:playhead calc_pos:undefined pos:29 utc:1516407101991
+type:content type:content event:playhead calc_pos:undefined pos:-1 utc:1516407104104
+type:content type:content event:playhead calc_pos:undefined pos:9 utc:1516407114113
+type:content type:content event:playhead calc_pos:undefined pos:19 utc:1516407124107
+type:content type:content event:playhead calc_pos:undefined pos:29 utc:1516407134105
+type:content type:content event:playhead calc_pos:undefined pos:39 utc:1516407144106
+type:content type:content event:playhead calc_pos:undefined pos:49 utc:1516407154105
+type:content type:content event:playhead calc_pos:undefined pos:59 utc:1516407164105
+type:content type:content event:playhead calc_pos:undefined pos:69 utc:1516407174111
+type:content type:content event:playhead calc_pos:undefined pos:79 utc:1516407184111
+type:content type:content event:playhead calc_pos:undefined pos:89 utc:1516407194104
+type:content type:content event:playhead calc_pos:124 pos:93 utc:1516407197205
+type:content type:content event:playhead calc_pos:124 pos:0 utc:1516407218161
+type:content type:content event:playhead calc_pos:124 pos:10 utc:1516407228204
+type:content type:content event:playhead calc_pos:124 pos:20 utc:1516407238166
+type:content type:content event:playhead calc_pos:124 pos:30 utc:1516407248157
+type:content type:content event:playhead calc_pos:124 pos:40 utc:1516407258157
+type:content type:content event:playhead calc_pos:124 pos:50 utc:1516407268173
+type:content type:content event:playhead calc_pos:124 pos:60 utc:1516407278162
+type:content type:content event:playhead calc_pos:124 pos:70 utc:1516407288159
+type:content type:content event:playhead calc_pos:124 pos:80 utc:1516407298169
+type:content type:content event:playhead calc_pos:124 pos:90 utc:1516407308159
+type:content type:content event:playhead calc_pos:124 pos:100 utc:1516407318163
+type:content type:content event:playhead calc_pos:124 pos:110 utc:1516407330783
+type:content type:content event:playhead calc_pos:116 pos:116 utc:1516407336107
+type:content type:content event:playhead calc_pos:387 pos:387 utc:1516407345040
+type:content type:content event:playhead calc_pos:387 pos:390 utc:1516407348406
+type:content type:content event:playhead calc_pos:387 pos:400 utc:1516407358408
+type:content type:content event:playhead calc_pos:387 pos:410 utc:1516407371068
+type:content type:content event:playhead calc_pos:416 pos:416 utc:1516407420493
+type:content type:content event:delete calc_pos:416 pos:0 utc:1516407459951
+type:content type:content event:playhead calc_pos:undefined pos:1 utc:1516407493197
+type:content type:content event:playhead calc_pos:2 pos:3 utc:1516407494955
+type:content type:content event:playhead calc_pos:13 pos:14 utc:1516407513524
+type:content type:content event:playhead calc_pos:17 pos:18 utc:1516407517765
+type:content type:content event:playhead calc_pos:1031 pos:1001 utc:1516407541811
+type:content type:content event:playhead calc_pos:1031 pos:1001 utc:1516407542376
+type:ad type:midroll event:playhead calc_pos:1031 pos:0 utc:1516407573327
+type:ad type:midroll event:playhead calc_pos:1031 pos:10 utc:1516407583309
+type:ad type:midroll event:playhead calc_pos:1031 pos:14 utc:1516407586308
+type:ad type:midroll event:playhead calc_pos:1031 pos:0 utc:1516407588390
+type:ad type:midroll event:playhead calc_pos:1031 pos:10 utc:1516407598392
+type:ad type:midroll event:playhead calc_pos:1031 pos:20 utc:1516407608393
+type:ad type:midroll event:playhead calc_pos:1031 pos:29 utc:1516407616390
+type:content type:content event:playhead calc_pos:1031 pos:1001 utc:1516407618490
+type:content type:content event:playhead calc_pos:1031 pos:1241 utc:1516407630997
+type:content type:content event:playhead calc_pos:1031 pos:1251 utc:1516407640992
+type:content type:content event:playhead calc_pos:1031 pos:1261 utc:1516407650996
+type:content type:content event:playhead calc_pos:1031 pos:1271 utc:1516407660993
+type:content type:content event:playhead calc_pos:1385 pos:1279 utc:1516407668371
+type:content type:content event:playhead calc_pos:1434 pos:1328 utc:1516407672628
+type:content type:content event:playhead calc_pos:1434 pos:1331 utc:1516407676404
+type:content type:content event:playhead calc_pos:1445 pos:1339 utc:1516407683803
+type:content type:content event:playhead calc_pos:2416 pos:2187 utc:1516407721024
+type:ad type:midroll event:playhead calc_pos:2416 pos:0 utc:1516407722005
+type:ad type:midroll event:playhead calc_pos:2416 pos:10 utc:1516407733464
+type:ad type:midroll event:playhead calc_pos:2416 pos:14 utc:1516407736378
+type:content type:content event:playhead calc_pos:2416 pos:2187 utc:1516407738041

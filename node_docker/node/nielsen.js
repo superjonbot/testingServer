@@ -59,8 +59,8 @@ var output = function (req, res) {
 
     gotData=JSON.parse(req.query.b)
 
-    var returnValue='type:'+gotData.type+' type:'+gotData.metadata[gotData.type].type+' event:'+gotData.event+' pos:'+gotData.position+' utc:'+gotData.utc+'\n'
-    var screenValue='type:'+gotData.type+' type:'+gotData.metadata[gotData.type].type+' event:'+gotData.event+' pos:'+gotData.position+' utc:'+gotData.utc
+    var returnValue='type:'+gotData.type+' type:'+gotData.metadata[gotData.type].type+' event:'+gotData.event+' calc_pos:'+gotData.calc_position+' pos:'+gotData.position+' utc:'+gotData.utc+'\n'
+    var screenValue='type:'+gotData.type+' type:'+gotData.metadata[gotData.type].type+' event:'+gotData.event+' calc_pos:'+gotData.calc_position+' pos:'+gotData.position+' utc:'+gotData.utc
         fs.appendFile("test.txt", returnValue, function(err) {
         if(err) {
             return console.log(err);
